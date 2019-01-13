@@ -29,6 +29,20 @@ as described in "Toki Pona - The Language of Good" by Sonja Lang (ISBN: 978-0-97
 The dictionary is written off the book, except for very slight changes.
 E.g.: if there is a list of verbs, every one is initiated with *to* instead of just the first one.
 
+  ```
+  jo
+    VERB to have, carry, contain, hold
+  ```
+  becomes
+  ```yaml
+  jo:
+    verb:
+      - - to have
+        - to carry
+        - to contain
+        - to hold
+  ```
+
 
 ## Contribution
 Any greater changes than those mentioned above are mistakes; if you see any such error, please submit an issue.
