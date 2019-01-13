@@ -1,6 +1,6 @@
 # Toki Pona Dictionary
-yaml file of the official toki pona dictionary,
-as described in "Toki Pona - The Language of Good" by Sonja Lang (ISBN: 978-0-9782923-0-0; see also [http://tokipona.org](http://tokipona.org))
+Yaml file of the official toki pona dictionary,
+as described in *Toki Pona - The Language of Good* by Sonja Lang (ISBN: 978-0-9782923-0-0; see also [http://tokipona.org](http://tokipona.org))
 
 ## Structure
 - Every word is a key
