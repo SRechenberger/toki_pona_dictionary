@@ -151,4 +151,91 @@ kasi:
       - vegetation
     - - herb
       - leaf
+# Page 127
+ken:
+  pre-verb:
+    - - to be able to
+      - to be allowed to
+      - to can
+      - may
+  adjective:
+    - - possible
+kepeken:
+  preposition:
+      - - to use
+        - with
+        - by means of
+kili:
+  noun:
+    - - fruit
+      - vegetable
+      - mushroom
+kiwen:
+  noun:
+    - - hard object
+      - metal
+      - rock
+      - stone
+ko:
+  noun:
+    - - clay
+      - clinging form
+      - dough
+      - semi-solid
+      - paste
+      - powder
+kon:
+  noun:
+    - - air
+      - breath
+    - - essence
+      - spirit
+    - - hidden reality
+      - unseen agent
+kule:
+  adjective:
+    - - colourful
+      - pigmented
+      - painted
+kulupu:
+  noun:
+    - - communitiy
+      - company
+      - group
+      - nation
+      - society
+      - tribe
+kute:
+  noun:
+    - - ear
+  verb:
+    - - to hear
+      - to listen
+    - - to pay attention to
+      - to obey
+la:
+  particle:
+    - - (between the context phrase and the main sentence)
+lape:
+  adjective:
+    - - sleeping
+      - resting
+laso:
+  adjective:
+    - - blue
+      - green
+lawa:
+  noun:
+    - - head
+      - mind
+  verb:
+    - - to control
+      - direct
+      - guide
+      - lead
+      - own
+      - plan
+      - regulate
+      - rule
+
 
