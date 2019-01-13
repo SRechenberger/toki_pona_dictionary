@@ -27,8 +27,7 @@ as described in "Toki Pona - The Language of Good" by Sonja Lang (ISBN: 978-0-97
     
 ## The Dictionary
 The dictionary is written off the book, except for very slight changes.
-E.g.: if there is a list of verbs, every one is initiated with *to* instead of just the first one.
-
+E.g.: if there is a list of verbs, every one is initiated with *to* instead of just the first one:
   ```
   jo
     VERB to have, carry, contain, hold
