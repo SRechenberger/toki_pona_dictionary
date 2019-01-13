@@ -4,3 +4,6 @@ as described in "Toki Pona - The Language of Good" by Sonja Lang (ISBN: 978-0-97
 
 ## Contribution
 The dictionary is written off the book, and any changes are a mistake; if you see any such error, please submit an issue.
+
+## Disclaimer
+**The list is yet uncomplete!**
