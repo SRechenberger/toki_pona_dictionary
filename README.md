@@ -24,6 +24,7 @@ as described in "Toki Pona - The Language of Good" by Sonja Lang (ISBN: 978-0-97
         - irrelevant
    ```
    is made.
+   For reasons of uniformity, his will be done, even if there are no semicolons separation the word list (see example in next section).
     
 ## The Dictionary
 The dictionary is written off the book, except for very slight changes.
